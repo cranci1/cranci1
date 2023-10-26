@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 🔭 I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/) and [Waifu2D-Android](https://github.com/cranci1/waifu2D-android)
+- 🔭 I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/), [Waifu2D-Android](https://github.com/cranci1/waifu2D-android) and [Enricozon](https://github.com/cranci1/Enricozon) 
 - 🌱 I’m currently learning swift, java and kotlin
 - 🤓 I'm currently a student in Italy 
 - 💬 Ask me about anything
