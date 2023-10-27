@@ -8,5 +8,5 @@
 
 ### 📊 Stats
 
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=cranci1&theme=dark)](https://git.io/streak-stats)
+![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=cranci1&theme=dark)](https://git.io/streak-stats)
 
