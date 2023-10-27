@@ -1,4 +1,4 @@
-<a href="[https://twitter.com/hanamori59ya/status/1543735761354125312](https://twitter.com/kanokari_anime](https://twitter.com/kanokari_anime)"><img align="left" src="sumi.png" alt="Sumi-chan"  width="400px"></a>
+<a href="[https://twitter.com/hanamori59ya/status/1543735761354125312](https://twitter.com/kanokari_anime](https://twitter.com/kanokari_anime)"><img align="left" src="sumi.png" alt="Sumi-chan"  width="300px"></a>
 
 ## :wave: Hi there
 
