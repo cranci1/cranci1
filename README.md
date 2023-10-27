@@ -1,6 +1,6 @@
 <a href="[https://twitter.com/hanamori59ya/status/1543735761354125312](https://twitter.com/kanokari_anime](https://twitter.com/kanokari_anime)"><img align="left" src="sumi.png" alt="Sumi-chan"  width="400px"></a>
 
-### :wave: Hi there
+## :wave: Hi there
 
 - :telescope: I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/), [Waifu2D-Android](https://github.com/cranci1/waifu2D-android) and [Enricozon](https://github.com/cranci1/Enricozon) 
 - 🤓 I'm currently a student in Italy 
