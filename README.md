@@ -8,5 +8,5 @@
 
 ### 📊 Stats
 
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranci1&layout=compact&theme=dark)
+![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=cranci1&theme=dark)](https://git.io/streak-stats)
 
