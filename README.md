@@ -1,4 +1,4 @@
-<img align="right" src="sumi.png" alt="Sumi Sakurasawa"  width="400px">
+<img align="left" src="sumi.png" alt="Sumi Sakurasawa"  width="400px">
 
 ### 👋 Hi there
 
