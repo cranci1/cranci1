@@ -1,3 +1,5 @@
+<img align="right" src="sumi.png" alt="Sumi Sakurasawa"  width="400px">
+
 ### 👋 Hi there
 
 - 🔭 I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/), [Waifu2D-Android](https://github.com/cranci1/waifu2D-android) and [Enricozon](https://github.com/cranci1/Enricozon) 
