@@ -8,7 +8,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
 
+
 ### 📊 Stats
-
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=cranci1&theme=dark)](https://git.io/streak-stats)
-
+![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)
