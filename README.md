@@ -10,4 +10,4 @@
 
 
 ### 📊 Stats
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)
+<a align="right">![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)</a>
