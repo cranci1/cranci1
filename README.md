@@ -7,3 +7,7 @@
 
 ### :bar_chart: Stats
 ![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=cranci1&theme=dark)](https://git.io/streak-stats)
+
+### Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pmruh3bpkzpxz23vawcpop2ivi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
