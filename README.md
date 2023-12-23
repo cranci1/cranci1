@@ -1,6 +1,6 @@
 ## :wave: Hi there
 
-- :telescope: I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/), [Waifu2D-Android](https://github.com/cranci1/waifu2D-android) and [Enricozon 2.0](https://github.com/Enricozon-Team/enricozon) 
+- :telescope: I’m currently working on [Waifu2D](https://github.com/cranci1/waifu2D/), [Waifu2D-Android](https://github.com/cranci1/waifu2D-android), [Enricozon 2.0](https://github.com/Enricozon-Team/enricozon) and [Enricozon-App](https://github.com/Enricozon-Team/enricozon-App)
 - :seedling: I’m currently learning swift, java and kotlin
 - 🤓 Currently a student in Italy
 - 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
