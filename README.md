@@ -6,7 +6,7 @@
 - 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
 
 ### :bar_chart: Stats
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=aura_dark)[![GitHub Streak](https://streak-stats.demolab.com?user=cranci1&theme=aura_dark)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranci1&layout=compact&theme=aura_dark)
+![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=aura_dark)[![GitHub Streak](https://streak-stats.demolab.com?user=cranci1&theme=aura_dark)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranci1&hide_progress=true&theme=aura_dark)
 
 ### Spotify
 
