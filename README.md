@@ -1,4 +1,4 @@
-## :wave: Hi there
+# Hey I'm cranci 👋
 
 - :telescope: I’m currently working on [AnimeGen](https://github.com/cranci1/AnimeGen/), [Osmium](https://github.com/cranci1/Osmium),
 - :seedling: I’m currently learning swift and now also Flutter,
@@ -6,8 +6,8 @@
 - 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
 
 ### :bar_chart: Stats
-![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=cranci1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&hide_border=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cranci1&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Spotify
 
