@@ -1,6 +1,6 @@
 # Hey I'm cranci 👋
 
-- :telescope: I’m currently working on [AnimeGen](https://github.com/cranci1/AnimeGen/), [Osmium](https://github.com/cranci1/Osmium) and some projects
+- :telescope: I’m currently working on [AnimeLounge](https://github.com/cranci1/AnimeLounge), [AnimeGen](https://github.com/cranci1/AnimeGen/), [Osmium](https://github.com/cranci1/Osmium) and some projects
 - :seedling: I’m currently learning swift and now also Flutter,
 - 🤓 Currently studing in Italy,
 - 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
