@@ -3,7 +3,7 @@
 - :telescope: I’m currently working on [Ryu](https://github.com/cranci1/Ryu), [AnimeGen](https://github.com/cranci1/AnimeGen/), [Osmium](https://github.com/cranci1/Osmium) and some projects
 - :seedling: I’m currently learning swift,
 - 🤓 Currently studing in Italy,
-- 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci@null.net](mailto:cranci@null.net)
+- 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci222@gmail.com](mailto:cranci222@gmail.com)
 
 ### :bar_chart: Stats
 ![cranci's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranci1&show_icons=true&hide_border=true&theme=tokyonight)
