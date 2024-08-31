@@ -2,7 +2,7 @@
 
 - :telescope: I’m currently working on [Ryu](https://github.com/cranci1/Ryu), [AnimeGen](https://github.com/cranci1/AnimeGen/) and [Osmium](https://github.com/cranci1/Osmium).
 - :seedling: I’m currently learning swift,
-- 📚 At the moment I'm studing in Italy
+- 📚 Currently studing in Italy
 - 📮 How to reach me: [Discord](https://discord.com/users/908762694096654397), [Twitter/X](https://twitter.com/cranci_) or via email at [cranci222@gmail.com](mailto:cranci222@gmail.com)
 
 ### :bar_chart: Stats
